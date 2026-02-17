@@ -11,7 +11,7 @@ body {
 header {
     background: #8DA868;
     color: white;
-    padding: 40px 20px;
+    padding: 1px;
     text-align: center;
 }
 
@@ -19,7 +19,7 @@ header {
 main {
     max-width: 800px;
     margin: 40px auto;
-    padding: 0 20px;
+    padding: 0px;
 }
 
 h2 {
@@ -35,7 +35,7 @@ img {
 /* Footer */
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 0px;
     background: #E8B880;
-    margin-top: 40px;
+    margin-top: 10px;
 }
