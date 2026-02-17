@@ -26,6 +26,12 @@ h2 {
     color: #1D4117;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Footer */
 footer {
     text-align: center;
